@@ -1,0 +1,37 @@
+# Pet Care Numbers
+
+> Pet Care Numbers is a free set of dog and cat calculators — pet age, daily calories and food portions, pregnancy due dates, chocolate exposure, pet insurance reimbursement and the yearly cost of owning a pet — that apply formulas and figures from the Merck Veterinary Manual, AAHA/AAFP guidelines, International Cat Care, NAPHIA and the ASPCA, and name the source under every result.
+
+## Tools
+- [Dog Age Calculator](https://petcarenumbers.com/dog-age-calculator/): Convert your dog's age to human years with a vet-written size chart and the DNA-methylation formula from Wang et al. (2020), side by side.
+- [Cat Age Calculator](https://petcarenumbers.com/cat-age-calculator/): Find your cat's age in human years from International Cat Care's chart, plus its life stage under the 2021 AAHA/AAFP feline guidelines.
+- [Dog Food Calculator](https://petcarenumbers.com/dog-food-calculator/): Work out how many calories your dog needs from its weight and life stage (RER × Merck factors), then the cups, grams or cans of your food.
+- [Cat Food Calculator](https://petcarenumbers.com/cat-food-calculator/): Daily calories for your cat from its weight and life stage using the veterinary RER formula, then cups of dry food or cans of wet food.
+- [Puppy Weight Calculator](https://petcarenumbers.com/puppy-weight-calculator/): See the average young-adult weight for your puppy's breed and sex from a study of 115,000 dogs, and how far along your puppy is today.
+- [Dog Pregnancy Calculator](https://petcarenumbers.com/dog-pregnancy-calculator/): Find your dog's whelping window from the breeding, ovulation, LH surge or diestrus date, using the gestation lengths in the Merck Veterinary Manual.
+- [Cat Pregnancy Calculator](https://petcarenumbers.com/cat-pregnancy-calculator/): Estimate when your cat's kittens are due from the breeding date, using the Merck Veterinary Manual's approximate gestation length for cats.
+- [Dog Chocolate Toxicity Calculator](https://petcarenumbers.com/dog-chocolate-toxicity-calculator/): Dog ate chocolate? Call your vet or animal poison control now. This estimates the theobromine and caffeine dose in mg/kg against Merck thresholds.
+- [Pet Insurance Cost Calculator](https://petcarenumbers.com/pet-insurance-cost/): Compare what you pay with and without pet insurance: premium, deductible, reimbursement rate and annual limit, from your quote or the U.S. average.
+- [Vet Cost Calculator](https://petcarenumbers.com/vet-visit-cost/): Add up a year of vet costs for your dog or cat: wellness visits, vaccines, parasite prevention, dental care and your clinic's own quotes.
+- [Cost of Owning a Dog or Cat](https://petcarenumbers.com/cost-of-owning-a-dog/): Estimate what a dog or cat costs per month, per year and over its life, line by line, starting from the ASPCA's cost table and your own prices.
+
+## Guides and data
+- [Average Pet Insurance Cost](https://petcarenumbers.com/average-pet-insurance-cost/): U.S. average yearly and monthly pet insurance premiums for dogs and cats by plan type, 2021–2025, from NAPHIA's State of the Industry Report.
+
+## Sources
+- PetMD — How Old Is My Dog in Human Years? (Jennifer Coates, DVM): https://www.petmd.com/dog/general-health/how-old-is-my-dog-in-human-years
+- Wang T, et al. — Quantitative Translation of Dog-to-Human Aging by Conserved Remodeling of the DNA Methylome, Cell Systems 2020;11(2):176-185.e6: https://doi.org/10.1016/j.cels.2020.06.006
+- International Cat Care — How to tell your cat's age in human years: https://icatcare.org/articles/how-to-tell-your-cats-age-in-human-years
+- AAHA/AAFP — 2021 Feline Life Stage Guidelines, Feline Life Stage Definitions: https://www.aaha.org/resources/2021-aaha-aafp-feline-life-stage-guidelines/feline-life-stage-definitions/
+- Merck Veterinary Manual — Nutritional Requirements of Small Animals: https://www.merckvetmanual.com/management-and-nutrition/nutrition-small-animals/nutritional-requirements-of-small-animals
+- Merck Veterinary Manual — Daily Maintenance Energy Requirements for Dogs and Cats (table): https://www.merckvetmanual.com/multimedia/table/daily-maintenance-energy-requirements-for-dogs-and-cats
+- The Ohio State University Veterinary Medical Center — Basic Calorie Calculator for Dogs and Cats: https://vet.osu.edu/vmc/companion/our-services/nutrition-support-service/basic-calorie-calculator
+- AAHA — 2021 Nutrition and Weight Management Guidelines for Dogs and Cats: https://www.aaha.org/wp-content/uploads/globalassets/02-guidelines/2021-nutrition-and-weight-management/resourcepdfs/new-2021-aaha-nutrition-and-weight-management-guidelines-with-ref.pdf
+- Merck Veterinary Manual — Approximate Gestation Periods (table): https://www.merckvetmanual.com/multimedia/table/approximate-gestation-periods
+- Merck Veterinary Manual — Breeding Management of Bitches: https://www.merckvetmanual.com/management-and-nutrition/management-of-reproduction-dogs-and-cats/breeding-management-of-bitches
+- Merck Veterinary Manual — Chocolate Toxicosis in Animals: https://www.merckvetmanual.com/toxicology/food-hazards/chocolate-toxicosis-in-animals
+- ASPCA — Animal Poison Control Center: https://www.aspca.org/pet-care/animal-poison-control
+- Pet Poison Helpline: https://www.petpoisonhelpline.com/
+- NAPHIA — State of the Industry Report 2026, highlights: https://naphia.org/wp-content/uploads/2026/06/NAPHIA_SOI2026_Report_HIGHLIGHTS_26-06-24.pdf
+- ASPCA — Cutting Pet Care Costs: https://www.aspca.org/pet-care/general-pet-care/cutting-pet-care-costs
+- Andersson L, et al. — Exploration of body weight in 115 000 young adult dogs of 72 breeds, Scientific Reports 2023: https://www.nature.com/articles/s41598-022-27055-4
